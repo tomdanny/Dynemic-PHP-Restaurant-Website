@@ -21,12 +21,14 @@
 
           <em>Sunday - Monday</em><br>
           Closed<br><br>
+          
+        <?php include('includes/store-hours.php'); ?>
 
         </div><!-- column -->
         
       </div><!-- footer -->
 
-      <small>&copy;2015 Daniel Tomic</small>
+      <small>&copy;<?php echo date('Y'); ?> <?php echo $company_name; ?></small>
       
     </div><!-- content -->
     
