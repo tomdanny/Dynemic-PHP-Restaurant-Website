@@ -47,4 +47,38 @@
 
   );
 
+// Menu Items
+
+  $menuItems = array(
+
+          "club-sandwich" => array(
+            title => "Club Sandwich",
+            price => 11,
+            blurb => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt nulla reprehenderit voluptatem magni possimus accusamus tenetur suscipit a repellendus architecto earum eum dolores sunt doloremque, illum dicta, eaque officiis asperiores.",
+            drink => "Club Soda"
+          ),
+
+          "dill-salmon" => array(
+            title => "Lemon &amp; Dill Salmon",
+            price => 18,
+            blurb => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt nulla reprehenderit voluptatem magni possimus accusamus tenetur suscipit a repellendus architecto earum eum dolores sunt doloremque.",
+            drink => "Club Soda"
+          ),
+
+          "super-salad" => array(
+            title => "The Super Salad<sup>&reg;</sup>",
+            price => 34,
+            blurb => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt nulla reprehenderit voluptatem magni possimus accusamus tenetur suscipit a repellendus architecto earum eum dolores sunt doloremque, illum dicta, eaque officiis asperiores.",
+            drink => "Jug o' water"
+          ),
+
+          "mexican-barbacoa" => array(
+            title => "Mexican Barbacoa",
+            price => 23,
+            blurb => "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt nulla reprehenderit voluptatem magni possimus accusamus tenetur suscipit a repellendus architecto earum eum dolores sunt doloremque, illum dicta, eaque officiis asperiores.",
+            drink => "Beer with a lime"
+          ),
+
+  );
+
 ?>
